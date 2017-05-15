@@ -6,6 +6,16 @@
 
 SEO is a package that provides helpers for some common SEO techniques.
 
+https://foursquare.com/v/seo-domination/5918564b1b0ea52ea8c57fa5
+http://myfolio.com/seodomination
+http://followus.com/seodomination
+https://www.topseos.com/profile/seo-domination/
+https://www.webwiki.co.uk/seodomination.co.uk
+https://www.drupal.org/u/seodomination
+
+http://buttonspace.com/for/http://seodomination.co.uk
+http://buttonspace.com/for/http://seodomination.co.uk/seo-expert-london/
+
 ## Features
 
 - __Meta tags__:
@@ -35,11 +45,26 @@ Run composer install or update to download the package.
 $ composer update
 ```
 
+
+http://fonobiz.com/b/gb/london-n-a/business/6964354/seo-domination
+https://fonolive.com/b/gb/london-n-a/business/6964354/seo-domination
+http://www.usdatapoints.com/b/gb/london-n-a/business/6964354/seo-domination
+http://brightedge.ca/b/gb/london-n-a/business/6964354/seo-domination
+http://pageze.com/b/gb/london-n-a/business/6964354/seo-domination
+
+
+
+http://directory.mirror.co.uk/company/941273223544832
+
 ## Providers
 
 ### Laravel 4
 
 Just register the service provider and the facades in `app/config/app.php` and you are good to go.
+https://www.yelloyello.com/places/seo-domination-staten-island
+http://www.hypotheekadviseurgids.nl/places/seo-domination-staten-island
+http://www.kappergids.nl/places/seo-domination-staten-island
+http://www.opticiengids.nl/places/seo-domination-staten-island
 
 ```php
 // Service provider
